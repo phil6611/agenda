@@ -1,0 +1,14 @@
+{
+    "agenda": [
+        {
+            "association": "PHPO for president",
+            "web": "www.philippe-poisse.eu",
+            "ics": "./fichier.ics"
+        },
+        {
+            "association": "Monnaie Locale des PO",
+            "web": "www.philippe-poisse.eu",
+            "ics": "./mlc.ics"
+        }
+    ]
+}

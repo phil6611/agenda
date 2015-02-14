@@ -1,0 +1,10 @@
+version 0.3/022014 ‒ 21/02/2014
+⁙ Un système de gestion de gabarit est mise en place.
+⁙ Les gabarits utilisent un système de gestion de langues pour l'internationalisation.
+
+version 0.2/022014 ‒ 17/02/2014
+⁙ Le fuseau horaire (timezone) n'est plus obligatoire pour afficher la date et l'heure.
+
+
+version 0.1/0214 ‒ 14/02/2014
+⁙ Le parser utilise 2 fichiers PHP et un fichier JSON.
